@@ -16,21 +16,24 @@ The topic is not new, it has been discussed during CW23 [link to raspberry blog 
 
 Most of us are aware of the general context of our planet being subject to climate change that results largely from human influence, and how this poses a great threat to our society. However, in case you are not, and indeed to emphasise this crucial background, we’ll summarise this background.
 
-<span style="text-decoration:underline;">Climate change summarised</span>
+![alt_text](images/global_warming.jpg "Simplified view of global warming.")
+
+## Climate change summarised
 
 Human activities, notably the burning of fossil fuels like oil, gas or coal, to generate electricity and to power cars, amongst many other tasks, release greenhouse gases into the atmosphere. These gases, such as carbon dioxide, trap heat in the atmosphere, which in turn raises the temperature of the surface of the Earth. Over time, the global average temperature rises.
 
-<span style="text-decoration:underline;">Rise in global temperatures illustrated</span>
+## Rise in global temperatures illustrated
 
 The rise in this global average temperature is strikingly illustrated by the ‘Warming Stripes’ (‘#ShowYourStripes’) project, a minimalist-style data visualisation created by Ed Hawkins. Temperatures are indicated as stripes in blue hues, representing cooler temperatures, or red hues, representing warmer ones. The general trend shows a progression from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the planet is, overall, warming!
 
 [Include image of warming stripes from [https://showyourstripes.info/s/globe](https://showyourstripes.info/s/globe) with attribution]
 
-<span style="text-decoration:underline;">Problems from such rising temperatures</span>
+## Problems from such rising temperatures
 
-Why should we be concerned about this rise in temperature.
 
-[TBC]
+Why should we be concerned about this rise in temperature?
+
+... TBC!
 
 
 # Awareness raising
