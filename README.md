@@ -2,7 +2,7 @@
 
 ### Towards an ‘Environmental Impact of Open Research’ chapter for The Turing Way
 
-Content produced as part of a [CW23 Hack Day](https://www.software.ac.uk/cw23/hack-day) which we will develop further and eventually submit to [The Turing Way](https://the-turing-way.netlify.app/index.html) as a new chapter. This will resolve a [currently open issue](https://github.com/alan-turing-institute/the-turing-way/issues/2803) for that project.
+Content produced as part of a [CW23 Hack Day](https://www.software.ac.uk/cw23/hack-day) which we will develop further and eventually submit to [The Turing Way](https://the-turing-way.netlify.app/index.html) as a new chapter, hoping to resolve a [currently open issue](https://github.com/alan-turing-institute/the-turing-way/issues/2803) for that project.
 
 #### License information
 
